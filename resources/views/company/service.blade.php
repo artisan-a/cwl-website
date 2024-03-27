@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
-    <title>JK Website Template</title>
+    <title>Countrywide - Services</title>
     
     @include('panels.meta-link')
 
@@ -24,7 +24,7 @@
                 <div class="col-lg-12">
                     <div class="title-service-page-area-top text-center pt--160">
                         <h1 class="title split-collab">
-                            Customized solutions to <br> <span>your business</span>
+                            Customized solutions for <br> <span>your business</span>
                         </h1>
                         <p class="disc">
                             Welcome to Fluxi! as a motivational speaker, we are passionate about helping

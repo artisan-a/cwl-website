@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="favicon-32x32.png">
-    <title>JK Website Template</title>
+    <title>Countrywide - About us</title>
     
     @include('panels.meta-link')
 

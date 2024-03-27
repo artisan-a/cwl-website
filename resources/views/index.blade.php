@@ -16,7 +16,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="banner-area-wrapper-two">
-                            <h1 class="title skew-up-2">Transfer your product with us and<br>
+                            <h1 class="title skew-up-2">Transport your product with us and<br>
                                 <span>achieve milestones</span>
                             </h1>
                             <p class="disc">
